@@ -1,2 +1,2 @@
-# Web_scraping
+# GitHub profile img scraping
  
